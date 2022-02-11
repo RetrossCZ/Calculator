@@ -1,4 +1,4 @@
-let firstNumber = +prompt("Number2");
+let firstNumber = +prompt("Number1");
 let secondNumber = +prompt("Number2");
 let sign = prompt("Sign");
 if (sign === "+") {
